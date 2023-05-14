@@ -22,9 +22,9 @@ import threejs from "./tech/threejs.svg";
 
 import tririd from "./company/tririd.png";
 
-import carrent from "./carrent.png";
-import jobit from "./jobit.png";
-import tripguide from "./tripguide.png";
+import portfolio from "./portfolio.png";
+import letsMeet from "./letsMeet.png";
+import ecommerce from "./ecommerce.png";
 
 export {
   logo,
@@ -48,7 +48,7 @@ export {
   typescript,
   threejs,
   tririd,
-  carrent,
-  jobit,
-  tripguide,
+  portfolio,
+  letsMeet,
+  ecommerce,
 };
