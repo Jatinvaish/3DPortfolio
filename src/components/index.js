@@ -10,7 +10,7 @@ import Contact from "./Contact";
 import CanvasLoader from "./Loader";
 
 
-export {
+export { 
   Hero,
   Navbar,
   About,
