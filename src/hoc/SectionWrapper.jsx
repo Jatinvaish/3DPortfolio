@@ -4,8 +4,11 @@ import { styles } from "../styles";
 import { staggerContainer } from "../utils/motion";
 
 const StarWrapper = (Component, idName) =>
+// take a component and return a component 
+// animate every div 
   function HOC() {
     return (
+
       <motion.section
         variants={staggerContainer()}
         initial='hidden'
